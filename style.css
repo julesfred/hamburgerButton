@@ -1,3 +1,15 @@
 body {
     background-color: #90D8DD;
 }
+
+.container {
+    margin-top: 10%;
+}
+
+#holder {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    padding-top: 25px;
+}
+
