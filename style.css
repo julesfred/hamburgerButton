@@ -251,6 +251,9 @@ body {
 
 
 
-.change1 {
-    background-color: yellow;
+.change {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    padding-top: 25px;
 }
